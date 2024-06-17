@@ -1,0 +1,32 @@
+D:\Нова папка\Lab9OOP\bin\Debug\net8.0-windows\Lab9OOP.exe
+D:\Нова папка\Lab9OOP\bin\Debug\net8.0-windows\Lab9OOP.deps.json
+D:\Нова папка\Lab9OOP\bin\Debug\net8.0-windows\Lab9OOP.runtimeconfig.json
+D:\Нова папка\Lab9OOP\bin\Debug\net8.0-windows\Lab9OOP.dll
+D:\Нова папка\Lab9OOP\bin\Debug\net8.0-windows\Lab9OOP.pdb
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.Form1.resources
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.AssemblyInfo.cs
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.dll
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\refint\Lab9OOP.dll
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.pdb
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\Lab9OOP.genruntimeconfig.cache
+D:\Нова папка\Lab9OOP\obj\Debug\net8.0-windows\ref\Lab9OOP.dll
+D:\Project_C#\Lab9\bin\Debug\net8.0-windows\Lab9OOP.exe
+D:\Project_C#\Lab9\bin\Debug\net8.0-windows\Lab9OOP.deps.json
+D:\Project_C#\Lab9\bin\Debug\net8.0-windows\Lab9OOP.runtimeconfig.json
+D:\Project_C#\Lab9\bin\Debug\net8.0-windows\Lab9OOP.dll
+D:\Project_C#\Lab9\bin\Debug\net8.0-windows\Lab9OOP.pdb
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.Form1.resources
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.csproj.GenerateResource.cache
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.AssemblyInfoInputs.cache
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.AssemblyInfo.cs
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.csproj.CoreCompileInputs.cache
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.dll
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\refint\Lab9OOP.dll
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.pdb
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\Lab9OOP.genruntimeconfig.cache
+D:\Project_C#\Lab9\obj\Debug\net8.0-windows\ref\Lab9OOP.dll
